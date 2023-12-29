@@ -10,8 +10,8 @@
 
 #### There are three notebooks in the folder:
 
-#### \*File 1 : EDA (Exploratory Data Analysis) Notebook
+- File 1 : EDA (Exploratory Data Analysis) Notebook
 
-#### \*File 2 : Feature Engineering Notebook
+- File 2 : Feature Engineering Notebook
 
-#### \*File 3 : Model Implementation Notebook
+- File 3 : Model Implementation Notebook
