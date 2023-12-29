@@ -2,7 +2,11 @@
 
 ### **Dataset:** https://www.kaggle.com/datasets/kartik2112/fraud-detection?resource=download
 
+<hr>
+
 ### Project Details
+
+<hr>
 
 #### There are three notebooks in the folder:
 
