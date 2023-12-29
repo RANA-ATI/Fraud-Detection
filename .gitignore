@@ -1,0 +1,6 @@
+/.venv
+/Dataset
+/catboost_info
+test_data.csv
+train_data.csv
+val_data.csv
