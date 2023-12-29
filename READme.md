@@ -12,8 +12,16 @@
 
 - File 1 : EDA (Exploratory Data Analysis) Notebook
 
-  - Visualization
+  - Data Analysis
+  - Data Cleaning and Preprocessing
+  - Data Visualization
 
 - File 2 : Feature Engineering Notebook
 
+  - Basic Feature Creation
+  - Advance Feature Creation
+
 - File 3 : Model Implementation Notebook
+
+  - Dealing Skewness (EDA)
+  - Popular ML/DL Model Implementations
