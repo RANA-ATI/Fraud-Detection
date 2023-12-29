@@ -12,6 +12,8 @@
 
 - File 1 : EDA (Exploratory Data Analysis) Notebook
 
+  - Visualization
+
 - File 2 : Feature Engineering Notebook
 
 - File 3 : Model Implementation Notebook
